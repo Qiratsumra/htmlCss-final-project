@@ -1,0 +1,6 @@
+{
+    "rewriter" :{
+        "source" :"/(./)",
+        "destination":"/"
+    }
+}
